@@ -1,0 +1,28 @@
+.container{
+  font-family: "Montserrat";
+  margin: 10px;
+}
+.card{
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  margin: 10px;
+}
+.hedding{
+  margin: 10px;
+  font-family: 'Montserrat', serif !important;
+  font-weight: bold;
+}
+.FOOTER{
+  margin-right: 102px;
+  margin-left: 102px;
+}
+.footerCont{
+  margin-right: 125px;
+  margin-left: 125px;
+}
+.made{
+  margin-right: 102px;
+  margin-left: 102px;
+}

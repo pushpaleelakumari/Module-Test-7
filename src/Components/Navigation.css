@@ -1,0 +1,53 @@
+.navgationContent{
+    display: flex;
+    font-family: 'Montserrat', serif;
+    justify-content: space-around;
+    align-items: center;
+}
+.navigation{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.Accio{
+    display: flex;
+    color: #252B42;
+    font-family: 'Montserrat', serif;
+    font-style: normal;
+    /* align-items: center; */
+    Size:24px
+}
+.AccioJob{
+    display: flex;
+    font-family: 'Montserrat', serif !important;
+    margin-left: -70px;
+    align-items: center;
+    margin-top: 3px;
+}
+.Accio h3{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+.navgationContent ul li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.pages{
+    font-weight: 700;
+    color: #737373;
+    font-family: 'Montserrat', serif;
+    display: flex;
+    /* align-items: center; */
+    margin-top: 3px;
+}
+.Shop{
+    color: #252B42;
+    font-weight: 500;
+}
+.cart{
+    display: flex;
+    font-family: 'Montserrat', serif;
+    color: #23A6F0;
+    font-style: normal;
+    font-weight: 700;
+    /* align-items: center; */
+}

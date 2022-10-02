@@ -1,0 +1,9 @@
+.madeby-content{
+    display: flex;
+    margin-left: 60px;
+    color: #737373;
+    font-size: 19px;
+    font-family: "Montserrat";
+    font-weight: bold;
+    letter-spacing: 0.2px;
+}

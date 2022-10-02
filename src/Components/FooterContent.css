@@ -1,0 +1,76 @@
+.footer-content{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-family: "Montserrat";
+}
+.footer-content ul li{
+    list-style-type: none;
+}
+.footer-content .first-heading{
+    width: 115px;
+    height: 24px;
+    color: #252B42;
+    font-style: bold !important;
+    font-weight: bold !important;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    margin-bottom: 20px;
+}
+.Footer-Headings-And-Names{
+    height: 222px;
+    gap: 40px;
+}
+.footer-content ul li{
+    line-height: 34px;
+    color: #737373;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+}
+.footer-button{
+    border: none;
+    width: 117px;
+    height: 59px;
+    background-color: #23A6F0;
+    border: 1px solid white;
+    border-left: none;
+    border-right: 5px ;
+    margin-left: 82px;
+    color: #E6E6E6;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+}
+.inputs{
+    width: 117px;
+    height: 54px;
+    border-radius: 5px;
+    border: none;
+    border-color: 1px solid #E6E6E6 !important;
+}
+.inputs::placeholder{
+    width: 120px;
+    height: 28px;
+    top: 15px;
+    left: 20px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    text-align: center;
+    font-size: 14px;
+    color: #737373;
+}
+.inputs:focus{
+    outline: none;
+}
+.footer-button{
+    border-right: 6px solid #23A6F0;
+    cursor: pointer;
+}
+.last-footers{
+    border: 1px solid #d4cdcd;
+    border-right: none;
+    width: 321px;
+    height: 58px;
+}

@@ -1,0 +1,101 @@
+.h1 {
+  color: #000000;
+  Font-family: 'Montserrat'
+}
+
+.Apple {
+  font-family: "Montserrat", serif;
+  font-weight: 600;
+  font-size: 16px;
+  width: 253px;
+  height: 32px;
+  letter-spacing: 0.1px;
+  margin-left: 10px;
+  width: 350px;
+  font-family: 'Montserrat', serif !important;
+}
+
+.card-buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.Ratings {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.oldPrice {
+  text-decoration: line-through;
+  color: #444444;
+  font-size: 16px;
+}
+
+.newPrice {
+  font-size: 24px;
+  color: #000000;
+  letter-spacing: 0.1px;
+}
+
+.price {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+}
+
+.star {
+  padding: 10px;
+  display: flex;
+  gap: 2px;
+  cursor: pointer;
+}
+
+.mainCard img {
+  height: 307px;
+  width: 366px;
+  display: flex;
+  justify-content: center !important;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.mainCard:hover {
+  transition: 0.6s ease-in-out;
+  box-shadow: 0 0 5px 0 black;
+  box-sizing: border-box;
+}
+
+.card-button {
+  background: #23A6F0;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.1px;
+  width: 345px;
+  height: 43px;
+  border-radius: 10px;
+  font-family: "Montserrat", serif !important;
+  border: none;
+  margin: 5px;
+  margin-top: 20px;
+  border: 2px solid #23A6F0;
+  cursor: pointer;
+}
+
+.card-button:hover {
+  transition: 0.8s;
+  background-color: white;
+  color: #23A6F0;
+}
+
+.mainCard {
+  box-shadow: 0 0 10px 0 rgba(204, 201, 201, 0.25);
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 5px;
+  width: 366px;
+  height: 500px;
+}

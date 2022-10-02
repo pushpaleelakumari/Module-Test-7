@@ -1,0 +1,110 @@
+/* .banners{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px; */
+    /* background: linear-gradient(-60deg, #96E9FB 0%, #96E9FB 50%) */
+/* } */
+/* .banners{
+    display: flex;
+    justify-content: space-evenly;
+}
+.banner-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Banner-image img{
+    position: relative;
+    margin-right: 0px;
+    left: 100px;
+}
+.buttons{
+    font-size: 24px;
+    color: white;
+    background-color: #23A6F0;
+    border-radius: 5px;
+    height: 50px;
+    width: 200px;
+    border: none;
+}
+.Banner{
+    background: linear-gradient(-60deg, #96E9FB 0%, #96E9FB 50%);
+    border-radius: 20px;
+    height: 622px;
+    margin: 20px auto;
+    margin-right: 0px;
+}
+.banners{
+    width: 70%;
+} */
+/* .Banners-Img{
+    width: 696px;
+    height: 696px;
+    top: 15px;
+    left: -5px;
+} */
+/* .b-c h5{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    size: 58px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+.b-c .Summer{
+    color: #2A7CC7;
+    font-family: 'Montserrat', serif;
+    font-size: 16px;
+}
+.b-c{
+    font-family: 'Montserrat', serif;
+}
+.banner-cont{
+    color: #737373;
+    font-size: 20px;
+    letter-spacing: 0.2px;
+    font-family: 'Montserrat' !important;
+}
+.Banner{
+    margin-bottom: 2px;
+} */
+
+.Banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-left: 30px;
+    height: 622px;
+    top: 92px;
+    border-radius: 10px;
+    background: linear-gradient(-70deg, #96E9FB 0%, #96E9FB 50%)
+}
+.Banner-image img{
+    position: relative;
+    left: 120px;
+}
+.buttons{
+    font-size: 24px;
+    color: white;
+    background-color: #23A6F0;
+    border-radius: 5px;
+    height: 50px;
+    width: 200px;
+    border: none;
+    cursor: pointer;
+}
+.Summer{
+    color: #2A7CC7;
+    font-family: 'Montserrat', serif;
+    font-size: 16px;
+}
+.new-collection{
+    color: #252B42;
+    font-size:30px;
+}
+.banner-cont{
+    font-size: 15px;
+    line-height: 30px;
+    color: #737373;
+
+}
